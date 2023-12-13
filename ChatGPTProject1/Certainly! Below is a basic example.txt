@@ -1,4 +1,0 @@
-Certainly! Below is a basic example of a restaurant webpage using HTML and CSS. It includes background images, a navigation bar, video options, text descriptions, buttons, headers, footers, and input text fields. Additionally, I've added some JavaScript for button functions. Please note that this is a simple example, and you can further customize and enhance it based on your requirements.
-
-
-Make sure to replace placeholder content (such as background images, video source, and menu items) with your actual content. Additionally, you may need to customize the styling and layout further based on your design preferences.
